@@ -1,0 +1,3 @@
+C:/Users/Home/CLionProjects/K-Best/cmake-build-debug/CMakeFiles/K_Best.dir
+C:/Users/Home/CLionProjects/K-Best/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Home/CLionProjects/K-Best/cmake-build-debug/CMakeFiles/rebuild_cache.dir
