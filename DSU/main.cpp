@@ -2,11 +2,12 @@
 
 using namespace std;
 
-vector<int> p;
+vector<int> p, d;
 
 void build(int n) {
     for (int i = 0; i <= n; i++) {
         p.push_back(i);
+        d.push_back(0);
     }
 }
 
@@ -20,10 +21,12 @@ void unite(int u, int v) {
     if (u == v) {
         return;
     }
-    if (rand() % 2) {
-        p[u] = v;
-    } else {
-        p[v] = u;
+    if (d[u] < d[v]) {
+        swap(u, v);
+    }
+    p[v] = u;
+    if (d[u] == d[v]) {
+        d[u]++;
     }
 }
 
