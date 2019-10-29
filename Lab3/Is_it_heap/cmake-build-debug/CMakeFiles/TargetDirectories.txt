@@ -1,0 +1,3 @@
+/home/dk318/AlgorithmsLabs/Lab3/Is_it_heap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dk318/AlgorithmsLabs/Lab3/Is_it_heap/cmake-build-debug/CMakeFiles/Is_it_heap.dir
+/home/dk318/AlgorithmsLabs/Lab3/Is_it_heap/cmake-build-debug/CMakeFiles/edit_cache.dir

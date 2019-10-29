@@ -1,0 +1,3 @@
+/home/dk318/AlgorithmsLabs/Lab3/min_dsu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dk318/AlgorithmsLabs/Lab3/min_dsu/cmake-build-debug/CMakeFiles/min_dsu.dir
+/home/dk318/AlgorithmsLabs/Lab3/min_dsu/cmake-build-debug/CMakeFiles/edit_cache.dir

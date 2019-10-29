@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/min_dsu.dir/main.cpp.o  -o min_dsu 

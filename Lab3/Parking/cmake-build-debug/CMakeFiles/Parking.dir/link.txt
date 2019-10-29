@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Parking.dir/main.cpp.o  -o Parking 
