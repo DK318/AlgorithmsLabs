@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/RMQ_reverse.dir/main.cpp.o  -o RMQ_reverse 

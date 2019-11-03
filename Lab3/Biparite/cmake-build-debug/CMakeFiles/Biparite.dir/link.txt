@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Biparite.dir/main.cpp.o  -o Biparite 

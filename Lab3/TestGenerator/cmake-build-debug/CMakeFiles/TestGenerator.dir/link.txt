@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TestGenerator.dir/main.cpp.o  -o TestGenerator 
