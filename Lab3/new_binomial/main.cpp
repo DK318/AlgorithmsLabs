@@ -53,13 +53,16 @@ binomial_heap merge(binomial_heap h1, binomial_heap h2) {
     Node* h1_node = h1.root_list[i];
     Node* h2_node = h2.root_list[i];
     if (h1_node != NULL && h2_node != NULL) {
-      res.root_list[++pos] = join(h1_node, h2_node);
+      pos++;
+      res.root_list[pos] = join(h1_node, h2_node);
     } else if (res.root_list[pos] != NULL) {
       if (h1_node != NULL) {
-        res.root_list[++pos] = join(h1_node, res.root_list[pos]);
+        pos++;
+        res.root_list[pos] = join(h1_node, res.root_list[pos - 1]);
         res.root_list[pos - 1] = NULL;
       } else if (h2_node != NULL) {
-        res.root_list[++pos] = join(h2_node, res.root_list[pos]);
+        pos++;
+        res.root_list[pos] = join(h2_node, res.root_list[pos - 1]);
         res.root_list[pos - 1] = NULL;
       } else {
         pos++;
@@ -101,6 +104,9 @@ vector<Node*> make_root_list(Node* p) {
   while (res[res.size() - 1]->sibling != NULL) {
     res.push_back(res[res.size() - 1]->sibling);
   }
+  for (int i = 0; i < (int) res.size(); i++) {
+    res[i]->parent = NULL;
+  }
   reverse(res.begin(), res.end());
   return res;
 }
@@ -112,12 +118,12 @@ binomial_heap extract_min(binomial_heap h) {
     if (h.root_list[i] == NULL) {
       continue;
     }
-    if (h.root_list[i]->key.first < minn) {
-      if (h.root_list[i]->key.second < num) {
-        minn = h.root_list[i]->key.first;
-        num = h.root_list[i]->key.second;
-        pos = i;
-      }
+    if ((h.root_list[i]->key.first < minn) ||
+        (h.root_list[i]->key.first == minn &&
+        h.root_list[i]->key.second < num)) {
+      minn = h.root_list[i]->key.first;
+      num = h.root_list[i]->key.second;
+      pos = i;
     }
   }
   Node* p = h.root_list[pos];
@@ -167,6 +173,7 @@ binomial_heap decrease_key(binomial_heap h, int num, int val) {
       return h;
     }
   }
+  return h;
 }
 
 binomial_heap del(binomial_heap h, int index) {
@@ -205,6 +212,7 @@ int find_heap(int index) {
       }
     }
   }
+  return -1;
 }
 
 int main() {
