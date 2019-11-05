@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/binomial_heap.dir/main.cpp.o  -o binomial_heap 

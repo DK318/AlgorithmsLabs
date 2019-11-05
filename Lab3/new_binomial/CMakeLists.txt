@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.15)
-project(binomial_heap)
+project(new_binomial)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(binomial_heap main.cpp)
+add_executable(new_binomial main.cpp)

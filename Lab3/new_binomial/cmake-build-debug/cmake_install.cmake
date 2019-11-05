@@ -1,4 +1,4 @@
-# Install script for directory: /home/dk318/AlgorithmsLabs/Lab3/binomial_heap
+# Install script for directory: /home/dk318/AlgorithmsLabs/Lab3/new_binomial
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/dk318/AlgorithmsLabs/Lab3/binomial_heap/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/dk318/AlgorithmsLabs/Lab3/new_binomial/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

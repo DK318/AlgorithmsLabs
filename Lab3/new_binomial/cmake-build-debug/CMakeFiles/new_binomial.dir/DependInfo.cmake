@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/dk318/AlgorithmsLabs/Lab3/binomial_heap/main.cpp" "/home/dk318/AlgorithmsLabs/Lab3/binomial_heap/cmake-build-debug/CMakeFiles/binomial_heap.dir/main.cpp.o"
+  "/home/dk318/AlgorithmsLabs/Lab3/new_binomial/main.cpp" "/home/dk318/AlgorithmsLabs/Lab3/new_binomial/cmake-build-debug/CMakeFiles/new_binomial.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

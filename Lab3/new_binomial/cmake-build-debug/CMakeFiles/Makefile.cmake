@@ -119,5 +119,5 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/binomial_heap.dir/DependInfo.cmake"
+  "CMakeFiles/new_binomial.dir/DependInfo.cmake"
   )

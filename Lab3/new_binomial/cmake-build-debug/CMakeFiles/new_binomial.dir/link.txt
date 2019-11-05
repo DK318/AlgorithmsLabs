@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/new_binomial.dir/main.cpp.o  -o new_binomial 

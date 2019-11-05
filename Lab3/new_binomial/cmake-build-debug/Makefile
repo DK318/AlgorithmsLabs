@@ -48,10 +48,10 @@ RM = /home/dk318/clion-2019.2.4/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/dk318/AlgorithmsLabs/Lab3/binomial_heap
+CMAKE_SOURCE_DIR = /home/dk318/AlgorithmsLabs/Lab3/new_binomial
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/dk318/AlgorithmsLabs/Lab3/binomial_heap/cmake-build-debug
+CMAKE_BINARY_DIR = /home/dk318/AlgorithmsLabs/Lab3/new_binomial/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/dk318/AlgorithmsLabs/Lab3/binomial_heap/cmake-build-debug/CMakeFiles /home/dk318/AlgorithmsLabs/Lab3/binomial_heap/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/dk318/AlgorithmsLabs/Lab3/new_binomial/cmake-build-debug/CMakeFiles /home/dk318/AlgorithmsLabs/Lab3/new_binomial/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/dk318/AlgorithmsLabs/Lab3/binomial_heap/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/dk318/AlgorithmsLabs/Lab3/new_binomial/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -111,17 +111,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named binomial_heap
+# Target rules for targets named new_binomial
 
 # Build rule for target.
-binomial_heap: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 binomial_heap
-.PHONY : binomial_heap
+new_binomial: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 new_binomial
+.PHONY : new_binomial
 
 # fast build rule for target.
-binomial_heap/fast:
-	$(MAKE) -f CMakeFiles/binomial_heap.dir/build.make CMakeFiles/binomial_heap.dir/build
-.PHONY : binomial_heap/fast
+new_binomial/fast:
+	$(MAKE) -f CMakeFiles/new_binomial.dir/build.make CMakeFiles/new_binomial.dir/build
+.PHONY : new_binomial/fast
 
 main.o: main.cpp.o
 
@@ -129,7 +129,7 @@ main.o: main.cpp.o
 
 # target to build an object file
 main.cpp.o:
-	$(MAKE) -f CMakeFiles/binomial_heap.dir/build.make CMakeFiles/binomial_heap.dir/main.cpp.o
+	$(MAKE) -f CMakeFiles/new_binomial.dir/build.make CMakeFiles/new_binomial.dir/main.cpp.o
 .PHONY : main.cpp.o
 
 main.i: main.cpp.i
@@ -138,7 +138,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	$(MAKE) -f CMakeFiles/binomial_heap.dir/build.make CMakeFiles/binomial_heap.dir/main.cpp.i
+	$(MAKE) -f CMakeFiles/new_binomial.dir/build.make CMakeFiles/new_binomial.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -147,7 +147,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	$(MAKE) -f CMakeFiles/binomial_heap.dir/build.make CMakeFiles/binomial_heap.dir/main.cpp.s
+	$(MAKE) -f CMakeFiles/new_binomial.dir/build.make CMakeFiles/new_binomial.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 # Help Target
@@ -157,7 +157,7 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... rebuild_cache"
-	@echo "... binomial_heap"
+	@echo "... new_binomial"
 	@echo "... edit_cache"
 	@echo "... main.o"
 	@echo "... main.i"

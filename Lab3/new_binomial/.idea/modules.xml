@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/binomial_heap.iml" filepath="$PROJECT_DIR$/.idea/binomial_heap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/new_binomial.iml" filepath="$PROJECT_DIR$/.idea/new_binomial.iml" />
     </modules>
   </component>
 </project>
