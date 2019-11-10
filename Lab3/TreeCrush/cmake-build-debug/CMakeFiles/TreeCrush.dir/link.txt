@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TreeCrush.dir/main.cpp.o  -o TreeCrush 

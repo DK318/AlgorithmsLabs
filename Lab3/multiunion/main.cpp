@@ -16,11 +16,11 @@ void build() {
   }
 }
 
-int find1(int x) {
+inline int find1(int x) {
   return dsu1[x] == x ? x : dsu1[x] = find1(dsu1[x]);
 }
 
-int find2(int x) {
+inline int find2(int x) {
   return dsu2[x] == x ? x : dsu2[x] = find2(dsu2[x]);
 }
 

@@ -1,3 +1,0 @@
-/home/dk318/AlgorithmsLabs/Lab3/TestGenerator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/dk318/AlgorithmsLabs/Lab3/TestGenerator/cmake-build-debug/CMakeFiles/TestGenerator.dir
-/home/dk318/AlgorithmsLabs/Lab3/TestGenerator/cmake-build-debug/CMakeFiles/edit_cache.dir
