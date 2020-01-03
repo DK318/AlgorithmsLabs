@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/levenshtein.dir/main.cpp.o  -o levenshtein 

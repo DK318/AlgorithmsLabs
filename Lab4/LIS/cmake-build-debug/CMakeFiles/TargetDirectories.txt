@@ -1,0 +1,3 @@
+/home/dk318/AlgorithmsLabs/Lab4/LIS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dk318/AlgorithmsLabs/Lab4/LIS/cmake-build-debug/CMakeFiles/LIS.dir
+/home/dk318/AlgorithmsLabs/Lab4/LIS/cmake-build-debug/CMakeFiles/edit_cache.dir

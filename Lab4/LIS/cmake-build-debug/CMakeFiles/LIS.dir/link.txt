@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/LIS.dir/main.cpp.o  -o LIS 

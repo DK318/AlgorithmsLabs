@@ -1,0 +1,4 @@
+/home/dk318/clion-2019.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/dk318/AlgorithmsLabs/Lab4/TSP
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/dk318/AlgorithmsLabs/Lab4/TSP/cmake-build-debug

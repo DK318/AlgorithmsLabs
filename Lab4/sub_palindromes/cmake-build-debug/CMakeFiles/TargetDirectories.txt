@@ -1,0 +1,3 @@
+/home/dk318/AlgorithmsLabs/Lab4/sub_palindromes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dk318/AlgorithmsLabs/Lab4/sub_palindromes/cmake-build-debug/CMakeFiles/sub_palindromes.dir
+/home/dk318/AlgorithmsLabs/Lab4/sub_palindromes/cmake-build-debug/CMakeFiles/edit_cache.dir

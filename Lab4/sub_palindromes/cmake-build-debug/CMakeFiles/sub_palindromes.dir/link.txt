@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/sub_palindromes.dir/main.cpp.o  -o sub_palindromes 
