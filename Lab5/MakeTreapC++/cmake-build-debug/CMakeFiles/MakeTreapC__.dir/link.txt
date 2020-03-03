@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/MakeTreapC__.dir/main.cpp.o  -o MakeTreapC__ 

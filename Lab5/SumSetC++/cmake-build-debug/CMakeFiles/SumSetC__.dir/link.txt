@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SumSetC__.dir/main.cpp.o  -o SumSetC__ 
