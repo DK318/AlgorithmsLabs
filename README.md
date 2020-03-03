@@ -21,3 +21,12 @@
 * [Еще одна задача на деревья](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab3/TreeCrush/main.cpp)
 * [Всем чмоки в этом чатике](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab3/zerg/main.cpp)
 * [Биномиальная куча](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab3/new_binomial/main.cpp)
+
+## Лабораторная работа №5
+* [Простое двоичное дерево поиска](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab5/BinaryTree/src/Main.java)
+* [Сбалансированное двоичное дерево поиска (Splay)](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab5/SplayTree/src/Main.java)
+* [Переместить в начало](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab5/TreapBayan/src/Main.java)
+* [K-й максимум](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab5/KthMaximum/src/Main.java)
+* [Декартово дерево](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab5/MakeTreapC%2B%2B/main.cpp)
+* [Добавление ключей](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab5/AddingKeys/src/Main.java)
+* [И снова сумма](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab5/SumSetC%2B%2B/main.cpp)
