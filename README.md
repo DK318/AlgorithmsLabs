@@ -30,3 +30,5 @@
 * [Декартово дерево](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab5/MakeTreapC%2B%2B/main.cpp)
 * [Добавление ключей](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab5/AddingKeys/src/Main.java)
 * [И снова сумма](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab5/SumSetC%2B%2B/main.cpp)
+
+## [Если не осилил, то вот в помощь](https://github.com/DK318/AlgorithmsLabs/blob/master/lgd.pdf)
