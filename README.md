@@ -51,4 +51,16 @@
 * [Правда или Ложь?](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab7/Cows/src/Main.java)
 * [Обход в глубину](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab7/DfsConstruct/src/Main.java)
 
+## Лабораторная работа №9
+* [Кратчайший путь в невзвешенном графе](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab9/BFSShortestPath/src/Main.java)
+* [Кратчайший путь](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab9/dijkstraFast/main.cpp)
+* [Кратчайший путь от каждой вершины до каждой](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab9/flojd/main.cpp)
+* [Кратчайший путь](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab9/dijkstraAll/main.cpp)
+* [Кратчайшие пути и прочее](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab9/shortPathAndSoOn/main.cpp)
+* [Цикл отрицательного веса](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab9/minusCycle/main.cpp)
+* [Остовное дерево](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab9/mst1/main.cpp)
+* [Остовное дерево 2](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab9/mst2/main.cpp)
+* [Плотное остовное дерево](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab9/minMaxEdge/main.cpp)
+* [Алгоритм двух китайцев - 2](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab9/edmondsFast/main.cpp)
+
 ## [Если не осилил, то вот в помощь](https://github.com/DK318/AlgorithmsLabs/blob/master/lgd.pdf)
