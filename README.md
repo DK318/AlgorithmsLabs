@@ -63,4 +63,15 @@
 * [Плотное остовное дерево](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab9/minMaxEdge/main.cpp)
 * [Алгоритм двух китайцев - 2](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab9/edmondsFast/main.cpp)
 
+## Лабораторная работа №10
+* [Паросочетание](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab10/Kuhn/main.cpp)
+* [Покрытие путями](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab10/MinPathCoverage/main.cpp)
+* [Минимальное вершинное покрытие](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab10/MinVertexCoverage/main.cpp)
+* [День рождения](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab10/HappyBirthday/main.cpp)
+* [Шахматная доска](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab10/Chess/main.cpp)
+* [King. Король](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab10/King/main.cpp)
+* [Эйлеров путь](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab10/EulerPath/main.cpp)
+* [Разбиение на пути](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab10/EdgeSimpleCoverage/main.cpp)
+* [Кодовый замок](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab10/CodeLock/main.cpp)
+
 ## [Если не осилил, то вот в помощь](https://github.com/DK318/AlgorithmsLabs/blob/master/lgd.pdf)
