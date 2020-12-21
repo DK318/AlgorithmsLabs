@@ -74,4 +74,18 @@
 * [Разбиение на пути](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab10/EdgeSimpleCoverage/main.cpp)
 * [Кодовый замок](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab10/CodeLock/main.cpp)
 
+## Лабораторная работа №11
+* [Без совершенного паросочетания](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab11/A/main.cpp)
+* [Максимальный поток](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab11/B/main.cpp)
+* [Минимальный разрез](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab11/C/main.cpp)
+* [Максимальный поток - 2](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab11/D/main.cpp)
+* [Декомпозиция потока](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab11/E/main.cpp)
+* [Циркуляция](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab11/F/main.cpp)
+* [Задача о назначениях](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab11/G/main.cpp)
+* [Максимальный поток минимальной стоимости](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab11/H/main.cpp)
+* [k паросочетаний](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab11/I/main.cpp)
+* [Назначение на узкое место](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab11/J/main.cpp)
+* [Блокирующий поток](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab11/K/main.cpp)
+* [Автоматное программирование](https://github.com/DK318/AlgorithmsLabs/blob/master/Lab11/L/main.cpp)
+
 ## [Если не осилил, то вот в помощь](https://github.com/DK318/AlgorithmsLabs/blob/master/lgd.pdf)
